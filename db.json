@@ -1,76 +1,68 @@
 {
   "products": [
     {
-      id: 1,
-      name: 'Malm',
-      description: 'Esta es una description del producto',
-      price: 9900,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 1,
+      "name": "Malm",
+      "description": "Esta es una description del producto",
+      "price": 9900,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 2,
-      name: 'Nordli',
-      description: 'Esta es una description del producto',
-      price: 16500,
-      quantity: 5,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 2,
+      "name": "Nordli",
+      "description": "Esta es una description del producto",
+      "price": 16500,
+      "quantity": 5,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 3,
-      name: 'Kullen',
-      description: 'Esta es una description del producto',
-      price: 4500,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 3,
+      "name": "Kullen",
+      "description": "Esta es una description del producto",
+      "price": 4500,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 4,
-      name: 'Electrolit',
-      description: 'Esta es una description del producto',
-      price: 17,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 4,
+      "name": "Electrolit",
+      "description": "Esta es una description del producto",
+      "price": 17,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 5,
-      name: 'Intex',
-      description: 'Esta es una description del producto',
-      price: 2030,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 5,
+      "name": "Intex",
+      "description": "Esta es una description del producto",
+      "price": 2030,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 6,
-      name: 'Intex',
-      description: 'Esta es una description del producto',
-      price: 2030,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 6,
+      "name": "Intex",
+      "description": "Esta es una description del producto",
+      "price": 2030,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 7,
-      name: 'Intex',
-      description: 'Esta es una description del producto',
-      price: 2030,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      "id": 7,
+      "name": "Intex",
+      "description": "Esta es una description del producto",
+      "price": 2030,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
     },
     {
-      id: 8,
-      name: 'Intex',
-      description: 'Esta es una description del producto',
-      price: 2030,
-      quantity: 1,
-      productImage:
-        'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
-    },
+      "id": 8,
+      "name": "Intex",
+      "description": "Esta es una description del producto",
+      "price": 2030,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    }
   ]
 }

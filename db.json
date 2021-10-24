@@ -6,7 +6,8 @@
       "description": "Esta es una description del producto",
       "price": 9900,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "malm"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "description": "Esta es una description del producto",
       "price": 16500,
       "quantity": 5,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "nordli"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "description": "Esta es una description del producto",
       "price": 4500,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "kullen"
     },
     {
       "id": 4,
@@ -30,39 +33,44 @@
       "description": "Esta es una description del producto",
       "price": 17,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "electrolit"
     },
     {
       "id": 5,
-      "name": "Intex",
+      "name": "Funko Pop",
       "description": "Esta es una description del producto",
-      "price": 2030,
+      "price": 349,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "funko"
     },
     {
       "id": 6,
-      "name": "Intex",
+      "name": "Maleta",
       "description": "Esta es una description del producto",
-      "price": 2030,
+      "price": 1500,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "maleta"
     },
     {
       "id": 7,
-      "name": "Intex",
+      "name": "Monitor",
       "description": "Esta es una description del producto",
-      "price": 2030,
+      "price": 14000,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "monitor"
     },
     {
       "id": 8,
-      "name": "Intex",
+      "name": "Control",
       "description": "Esta es una description del producto",
-      "price": 2030,
+      "price": 100,
       "quantity": 1,
-      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "control"
     }
   ]
 }

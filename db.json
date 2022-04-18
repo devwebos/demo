@@ -2,17 +2,22 @@
   "products": [
     {
       "id": 1,
-      "name": "Malm",
-      "description": "Esta es una description del producto",
-      "price": 9900,
+      "name": "Set Brochas 15pz DW023",
+      "description": "Set profesional de primera calidad con un total de 15 brochas para rostro y ojos con mango de madera en color negro con dorado",
+      "price": 283.50,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
       "slug": "malm"
     },
     {
       "id": 2,
-      "name": "Nordli",
-      "description": "Esta es una description del producto",
+      "name": "Set Brochas 15pz Moradas S-93",
+      "description": "set profesional sintéticas de
+primera calidad con un total de
+15 brocha para rostro y ojos
+con mango de madera en color
+negro con morado
+y de cerdas de punta blanca",
       "price": 16500,
       "quantity": 5,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",

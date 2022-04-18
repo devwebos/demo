@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Set Brochas 15pz DW023",
       "description": "Set profesional de primera calidad con un total de 15 brochas para rostro y ojos con mango de madera en color negro con dorado",
-      "price": 283.50,
+      "price": 283.5,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
       "slug": "DW023",
@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Set Brochas 15pz Moradas S-93",
       "description": "Set profesional sintéticas de primera calidad con un total de 15 brocha para rostro y ojos con mango de madera en color negro con morado y de cerdas de punta blanca",
-      "price": 272.50,
+      "price": 272.5,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
       "slug": "S-93",
@@ -22,57 +22,93 @@
     },
     {
       "id": 3,
-      "name": "Kullen",
+      "name": "Set Brochas 15pz Rojo S-74",
       "description": "Esta es una description del producto",
-      "price": 4500,
+      "price": 371,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "kullen"
+      "slug": "kullen",
+      "category": "brochas"
     },
     {
       "id": 4,
-      "name": "Electrolit",
+      "name": "Set Brochas 15pz S-72",
       "description": "Esta es una description del producto",
-      "price": 17,
+      "price": 253,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "electrolit"
+      "slug": "electrolit",
+      "category": "brochas"
     },
     {
       "id": 5,
-      "name": "Funko Pop",
+      "name": "Set Brochas 18pz Moradas S-90",
       "description": "Esta es una description del producto",
-      "price": 349,
+      "price": 253,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "funko"
+      "slug": "funko",
+      "category": "brochas"
     },
     {
       "id": 6,
-      "name": "Maleta",
+      "name": "Set Brochas 18pz S-48",
       "description": "Esta es una description del producto",
-      "price": 1500,
+      "price": 403.5,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "maleta"
+      "slug": "maleta",
+      "category": "brochas"
     },
     {
       "id": 7,
-      "name": "Monitor",
+      "name": "Set Brochas 20pz S-66",
       "description": "Esta es una description del producto",
-      "price": 14000,
+      "price": 1160,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "monitor"
+      "slug": "S-66",
+      "category": "brochas"
     },
     {
       "id": 8,
-      "name": "Control",
+      "name": "Set Brochas 22pz S-91",
       "description": "Esta es una description del producto",
-      "price": 100,
+      "price": 580,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "control"
+      "slug": "S-91",
+      "category": "brochas"
+    },
+    {
+      "id": 9,
+      "name": "Set Brochas 24pz Bolsa Cafe S-66",
+      "description": "Esta es una description del producto",
+      "price": 1160,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "S-66",
+      "category": "brochas"
+    },
+    {
+      "id": 10,
+      "name": "Set Brochas 24pz S-33",
+      "description": "Esta es una description del producto",
+      "price": 580,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "S-33",
+      "category": "brochas"
+    },
+    {
+      "id": 11,
+      "name": "Set Brochas Profesional 24pz SD001",
+      "description": "Esta es una description del producto",
+      "price": 1843,
+      "quantity": 1,
+      "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "slug": "SD001",
+      "category": "brochas"
     }
   ]
 }

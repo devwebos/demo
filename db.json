@@ -7,7 +7,8 @@
       "price": 283.50,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "DW023"
+      "slug": "DW023",
+      "category": "brochas"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "price": 272.50,
       "quantity": 1,
       "productImage": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-      "slug": "S-93"
+      "slug": "S-93",
+      "category": "brochas"
     },
     {
       "id": 3,
